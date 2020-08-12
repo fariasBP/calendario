@@ -1,0 +1,27 @@
+{
+  "name": "calendario",
+  "version": "1.0.0",
+  "description": "fsadf",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fariasBP/calendario.git"
+  },
+  "author": "farias_BP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fariasBP/calendario/issues"
+  },
+  "homepage": "https://github.com/fariasBP/calendario#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
